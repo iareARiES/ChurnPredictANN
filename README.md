@@ -1,5 +1,8 @@
 # **ChurnPredictANN - Customer Churn Prediction using ANN**  
 
+## 📖 Important Note
+For a **better understanding** of the project, please check the **Google Colab file** 📄 uploaded in this repository. It contains **detailed explanations and execution steps** to help you grasp the workflow more effectively.
+
 ## 📌 Overview  
 **ChurnPredictANN** is an Artificial Neural Network (ANN) model designed to predict customer churn in a banking dataset. It analyzes customer demographics, account details, and transaction history to determine whether a customer is likely to leave the bank.  
 
